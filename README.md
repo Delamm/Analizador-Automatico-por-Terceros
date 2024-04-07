@@ -1,1 +1,1 @@
-# Analizador-Automatico-por-Terceros
+# Analizador-Automatico-por-Terceros.
