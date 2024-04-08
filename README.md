@@ -5,25 +5,25 @@ Installation
 
 Clone the repository to your local machine:
 
-    git clone https://github.com/your-username/ip-address-analysis-tool.git
+    git clone https://github.com/Delamm/Analizador-Automatico-por-Terceros.git
 
 Install the required Python packages:
 
     pip install -r requirements.txt
 
-Usage
+Usage    
 
-    Make sure you have a file named addresses.txt containing the IP addresses you want to analyze, with each IP address on a new line.
+Make sure you have a file named addresses.txt containing the IP addresses you want to analyze, with each IP address on a new line. 
 
-    Run the script:
+Run the script:
 
-    python script.py
+    python script.py  
+      
+Follow the on-screen instructions to choose the tool you want to use for IP address analysis (Symantec, AbuseIP, or VirusTotal).
 
-    Follow the on-screen instructions to choose the tool you want to use for IP address analysis (Symantec, AbuseIP, or VirusTotal).
+The script will open a web browser and automatically navigate to the selected tool's website. It will then paste each IP address from the addresses.txt file for analysis.
 
-    The script will open a web browser and automatically navigate to the selected tool's website. It will then paste each IP address from the addresses.txt file for analysis.
-
-    Sit back and let the tool do the work! It will automatically analyze each IP address and display the results.
+Sit back and let the tool do the work! It will automatically analyze each IP address and display the results.
 
 Tools Used
 
