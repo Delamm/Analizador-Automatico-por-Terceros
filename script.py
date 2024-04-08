@@ -38,7 +38,7 @@ elif election == 2:
  # El usuario elige VirusTotal
 elif election == 3:
     for ip in f:
-        open_browser("https://www.virustotal.com/gui/home/search",)
+        open_browser("https://www.virustotal.com/gui/home/search",5)
     
 else:
     raise ValueError("Debe insertar numeros del 1 al 3 inclusive.")

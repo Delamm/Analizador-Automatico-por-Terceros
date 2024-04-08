@@ -1,0 +1,4 @@
+webbrowser
+pyperclip
+pyautogui
+colorama
