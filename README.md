@@ -1,17 +1,17 @@
 # IP Address Analysis Tool
 
 This tool allows you to analyze IP addresses using various online tools. It automates the process of opening a web browser, navigating to specific websites, and pasting the IP addresses for analysis.
+Installation
 
-## Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/ip-address-analysis-tool.git
-
-    Install the required Python packages:
+    Clone the repository to your local machine:
 
     bash
+
+git clone https://github.com/your-username/ip-address-analysis-tool.git
+
+Install the required Python packages:
+
+bash
 
     pip install -r requirements.txt
 
