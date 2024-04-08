@@ -11,7 +11,7 @@ Install the required Python packages:
 
     pip install -r requirements.txt
 
-Usage    
+## Usage    
 
 Make sure you have a file named addresses.txt containing the IP addresses you want to analyze, with each IP address on a new line. 
 
@@ -33,6 +33,6 @@ Sit back and let the tool do the work! It will automatically analyze each IP add
 - time: Library for handling time-related operations.
 - colorama: Library for adding colors to the terminal output.
 
-Disclaimer
+### Disclaimer
 
 This tool is intended for educational purposes only. Use it responsibly and respect the terms of service of the websites you are accessing.
