@@ -25,13 +25,13 @@ The script will open a web browser and automatically navigate to the selected to
 
 Sit back and let the tool do the work! It will automatically analyze each IP address and display the results.
 
-Tools Used
+## Tools Used
 
-    webbrowser: Library for automating web browser actions.
-    pyperclip: Library for copying and pasting in Python.
-    pyautogui: Library for automating keyboard and mouse actions.
-    time: Library for handling time-related operations.
-    colorama: Library for adding colors to the terminal output.
+- webbrowser: Library for automating web browser actions.
+- pyperclip: Library for copying and pasting in Python.
+- pyautogui: Library for automating keyboard and mouse actions.
+- time: Library for handling time-related operations.
+- colorama: Library for adding colors to the terminal output.
 
 Disclaimer
 
